@@ -6,7 +6,7 @@ excerpt: '慕容雪村曾是流行小说作家。他的小说非常接地气，�
 date: 2022-05-27
 venue: 'Journal 1'
 paperurl: 'https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/'
-<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+citation: '今年慕容雪村出版了他自2010年以来的第一本新书《禁城：武汉传来的声音》，写他在武汉封城及解封后的采访见闻。这本书在澳大利亚先出了英文版 Deadly Quiet City，《不明白播客》邀请到慕容雪村，听他讲述本书写作背后的故事。'
 ---
 
 ### [来源](https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/)
