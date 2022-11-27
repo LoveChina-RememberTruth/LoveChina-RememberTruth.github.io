@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "新青年"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : 此后如竟没有炬火，我便是唯一的光。
+description              : 若无炬火，我愿点亮
 url                      : https://lovechina-remembertruth.github.io/loveChina.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
