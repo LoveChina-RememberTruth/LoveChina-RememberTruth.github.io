@@ -13,7 +13,7 @@ redirect_from:
 
 ### 2.诉求：不要核酸要吃饭，不要封控要自由！勇敢表达国务院二十条没有限制我们的自由！
 
-### 3.方案：法不责众，抱团取暖，黑夜抗议，坚守信仰！
+### 3.方案：法不责众，抱团取暖，黑夜抗议，唱国际歌！
 
 ### 4.注意：提高安全意识，保护个人健康。
 
@@ -27,18 +27,18 @@ redirect_from:
 ------
 1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211261.mp4)
 
-2.[见证上海市民的勇敢！]()
+2.[见证上海市民的勇敢！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211263.mp4)
 
 3.[星星之火，可以燎原！]()
 
 
 2022.11.25
 ------
-1.[先辈们为了人民的权利和尊严！]()
+1.[鲁迅狂人日记](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211251.mp4)
 
 2.[他们挡不住民主的光芒]()
 
-3.[鲁迅狂人日记]()
+3.[先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211252.mp4)
 
 
 
