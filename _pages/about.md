@@ -22,7 +22,7 @@ redirect_from:
 
 2022.11.26
 ------
-1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211261.mp4)
+1.[致敬南京传媒学院的大学生们！](https://lovechina-remembertruth.github.io/loveChina.github.io/files/202211261.mp4)
 
 
 2022.11.25
