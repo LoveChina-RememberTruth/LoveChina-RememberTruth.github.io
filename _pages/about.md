@@ -24,29 +24,38 @@ redirect_from:
 
 
 
-## 视频列表，点击观看
+## 每日新闻，视频点击观看
+
+### 2022.11.27
+
+1.[新疆库尔勒冲击政府](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211261.mp4)
+
 
 ### 2022.11.26
 
-1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211261.mp4)
+1. [致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211261.mp4)
 
-2.[见证上海市民的勇敢！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211263.mp4)
+2. [见证上海市民的勇敢！](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211263.mp4)
 
-3.[30多所各高校共同抗议，包括北大复旦！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211262.mp4)
+3. [30多所各高校共同抗议，包括北大复旦！](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211262.mp4)
+
+4. [新疆库尔勒冲击政府](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211264.mp4)
 
 
 ### 2022.11.25
-<!-- ------ -->
-1.[鲁迅狂人日记](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211251.mp4)
 
-2.[他们挡不住民主的光芒](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211254.mp4)
+1. [鲁迅狂人日记](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211251.mp4)
 
-3.[先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211252.mp4)
+2. [他们挡不住民主的光芒](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211254.mp4)
+
+3. [先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211252.mp4)
 
 
 ------
 ### 他们为什么掩盖真相，他们为什么不让人民发声，他们在害怕什么？
-### 请同胞们去了解真正的历史，而不是教科书的洗脑！
+
+
+### 请同胞们去了解真正的历史和现实，资料栏里可以阅读下载！
 
 
 ### 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声，有一分热,发一分光，就令萤火一般，也可以在黑暗里发一点光,不必等候炬火。此后如竟没有炬火，我便是唯一的光。
