@@ -35,7 +35,7 @@ redirect_from:
 1. [致敬南京传媒学院的大学生们！](https://lovechina-remembertruth.github.io/files/202211261.mp4)
 
 <video id="video" controls="" preload="none" poster="none">
-<source id="mp4" src="https://lovechina-remembertruth.github.io/files/202211261.mp4" type="video/mp4">
+<source id="1" src="https://lovechina-remembertruth.github.io/files/202211261.mp4" type="video/mp4">
 </videos>
 
 
