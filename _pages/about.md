@@ -33,6 +33,9 @@ redirect_from:
 ### 2022.11.26
 
 1. [致敬南京传媒学院的大学生们！](https://lovechina-remembertruth.github.io/files/202211261.mp4)
+<video id="video" controls="" preload="none" poster="">
+      <source id="mp4" src="https://lovechina-remembertruth.github.io/files/202211261.mp4" type="video/mp4">
+</videos>
 
 2. [见证上海市民的勇敢！](https://lovechina-remembertruth.github.io/files/202211263.mp4)
 
