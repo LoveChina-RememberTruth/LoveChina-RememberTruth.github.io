@@ -9,11 +9,14 @@ paperurl: ''
 
 ---
 
+### [音频](https://lovechina-remembertruth.github.io/files/audio20220527.mp3)
+
+
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="https://lovechina-remembertruth.github.io/files/audio20220527.mp3">
 </audio>
 
-### [音频](https://lovechina-remembertruth.github.io/files/audio20220527.mp3)
+
 
 ### 时间轴：
 
