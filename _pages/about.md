@@ -26,9 +26,9 @@ redirect_from:
 
 ## 每日新闻，视频点击观看
 
-### 2022.11.27
+<!-- ### 2022.11.27
 
-1.[新疆库尔勒冲击政府](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211261.mp4)
+1.[新疆库尔勒冲击政府](https://LoveChina-RememberTruth.github.io/lovechina-remembertruth.github.io/files/202211261.mp4) -->
 
 
 ### 2022.11.26
