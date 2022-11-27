@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/audio-1
 excerpt: '慕容雪村曾是流行小说作家。他的小说非常接地气，非常世俗，甚至黑暗。一位读者在评论他的小说《原谅我红尘颠倒》时写道：“他先把我指向地狱，又让我抬头看天堂，最后告诉我，回到人间吧。“另一位读者评论说：“那么脏的书，却让老子哭成了傻X。”'
 date: 2022-05-27
-venue: 'Journal 1'
+venue: '不明白播客'
 paperurl: ''
 citation: ''
 ---
