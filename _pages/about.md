@@ -28,20 +28,20 @@ redirect_from:
 
 ### 2022.11.26
 <!-- ------ -->
-1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211261.mp4)
+1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth/loveChina.github.io/files/202211261.mp4)
 
-2.[见证上海市民的勇敢！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211263.mp4)
+2.[见证上海市民的勇敢！](https://LoveChina-RememberTruth/loveChina.github.io/files/202211263.mp4)
 
 3.[星星之火，可以燎原！]()
 
 
 ### 2022.11.25
 <!-- ------ -->
-1.[鲁迅狂人日记](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211251.mp4)
+1.[鲁迅狂人日记](https://LoveChina-RememberTruth/loveChina.github.io/files/202211251.mp4)
 
-2.[他们挡不住民主的光芒](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211254.mp4)
+2.[他们挡不住民主的光芒](https://LoveChina-RememberTruth/loveChina.github.io/files/202211254.mp4)
 
-3.[先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211252.mp4)
+3.[先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth/loveChina.github.io/files/202211252.mp4)
 
 
 
