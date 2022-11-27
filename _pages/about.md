@@ -27,12 +27,12 @@ redirect_from:
 ## 视频列表，点击观看
 
 ### 2022.11.26
-<!-- ------ -->
+
 1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211261.mp4)
 
 2.[见证上海市民的勇敢！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211263.mp4)
 
-3.[星星之火，可以燎原！]()
+3.[30多所各高校共同抗议，包括北大复旦！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211262.mp4)
 
 
 ### 2022.11.25
@@ -44,6 +44,7 @@ redirect_from:
 3.[先辈们为了人民的权利和尊严！](https://LoveChina-RememberTruth.github.io/loveChina.github.io/files/202211252.mp4)
 
 
+------
 #### 他们为什么掩盖真相，他们为什么不让人民发声，他们在害怕什么？
 #### 请同胞们去了解真正的历史，而不是教科书的洗脑！
 
