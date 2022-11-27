@@ -17,12 +17,15 @@ redirect_from:
 
 ### 4.注意：提高安全意识，保护个人健康。
 
-(视频素材请发送caesar.li2@aiesec.net，让更多人看到我们的勇敢和良知~)
+### 5.请转发这个网站给更多身边的人，请保持勇敢和良知，做新青年！
+
+
+(每日更新动态，请计算机专业的朋友fork、star这个项目，并用你们的专业知识传播)
 
 
 2022.11.26
 ------
-1.[致敬南京传媒学院的大学生们！](https://lovechina-remembertruth.github.io/loveChina.github.io/files/202211261.mp4)
+1.[致敬南京传媒学院的大学生们！](https://LoveChina-RememberTruth/loveChina.github.io/tree/master/files/202211261.mp4)
 
 
 2022.11.25
