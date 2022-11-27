@@ -11,7 +11,7 @@ title                    : "新青年"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : 若无炬火，我愿点亮
-url                      : https://lovechina-remembertruth.github.io/loveChina.github.io/ 
+url                      : https://lovechina-remembertruth.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
