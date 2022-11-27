@@ -9,7 +9,8 @@ paperurl: ''
 
 ---
 
-### [音频](https://lovechina-remembertruth.github.io/files/audio20220527.mp3)
+### 音频
+<!-- ### [音频](https://lovechina-remembertruth.github.io/files/audio20220527.mp3) -->
 
 
 <audio id="audio" controls="" preload="none">
