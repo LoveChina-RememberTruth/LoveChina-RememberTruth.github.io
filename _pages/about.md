@@ -29,7 +29,7 @@ redirect_from:
 
 ### 2022.11.28
 1. [清华紫荆公寓阳台挂口号](https://lovechina-remembertruth.github.io/files/202211281.jpg)
-2. [中国抗议已经引发全世界关注](https://lovechina-remembertruth.github.io/files/202211281.jpg)
+2. [中国抗议已经引发全世界关注](https://lovechina-remembertruth.github.io/files/202211282.jpg)
 3. [公安大学教师匿名教授如何反抗镇压，待补充]()
 4. [香港青年提供抗议经验，待补充]()
 
