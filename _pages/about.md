@@ -27,12 +27,24 @@ redirect_from:
 
 ## 每日新闻，点击观看，8小时更新一次
 
+### 2022.11.28
+1. [清华紫荆公寓阳台挂口号](https://lovechina-remembertruth.github.io/files/202211281.mp4)
+2. [中国抗议已经引发全世界关注](https://lovechina-remembertruth.github.io/files/202211281.mp4)
+3. [公安大学教师匿名教授如何反抗镇压，待补充]()
+4. [香港青年提供抗议经验，待补充]()
+
+各地抗议持续发酵中
+
 ### 2022.11.27
 
 1. [习近平下台声被点燃](https://lovechina-remembertruth.github.io/files/202211281.mp4)
+2. [“白纸抗议”蔓延全国，北京声援上海放人](https://lovechina-remembertruth.github.io/files/202211282.mp4)
+3. [27号抗议高校名单](https://lovechina-remembertruth.github.io/files/202211282.mp4)
+4. [汉江抗议发生冲突](https://lovechina-remembertruth.github.io/files/202211282.mp4)
+5. [英国伦敦大使馆外响彻“不做奴才做公民”，声援上海放人](https://lovechina-remembertruth.github.io/files/202211282.mp4)
+6. [海内外华人纷纷参加声援抗议，待补充]()
 
-2. [“白纸革命”蔓延全国，北京声援上海放人](https://lovechina-remembertruth.github.io/files/202211282.mp4)
-
+持续更新中
 
 
 ### 2022.11.26
