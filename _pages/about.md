@@ -25,11 +25,14 @@ redirect_from:
 
 
 
-## 每日新闻，视频点击观看
+## 每日新闻，点击观看，8小时更新一次
 
-<!-- ### 2022.11.27
+### 2022.11.27
 
-1.[新疆库尔勒冲击政府](https://lovechina-remembertruth.github.io/files/202211261.mp4) -->
+1. [习近平下台声被点燃](https://lovechina-remembertruth.github.io/files/202211281.mp4)
+
+2. [“白纸革命”蔓延全国，北京声援上海放人](https://lovechina-remembertruth.github.io/files/202211282.mp4)
+
 
 
 ### 2022.11.26
